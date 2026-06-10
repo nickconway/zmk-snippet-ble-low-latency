@@ -1,0 +1,7 @@
+config CONFIG_BT_PERIPHERAL_PREF_MIN_INT
+    int "BLE latency"
+    default 1
+
+config CONFIG_BT_PERIPHERAL_PREF_MAX_INT
+    int "BLE latency"
+    default 1
